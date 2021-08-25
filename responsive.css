@@ -72,16 +72,16 @@
     }
 }
 
-@media (min-width: 360px) and (max-width: 576px) {
+@media (max-width: 576px) {
     .banner {
-        padding: 100px 0;
+        padding: 120px 0;
     }
     .banner-caption h2 {
-        padding: 5px 15px;
-        font-size: 20px;
+        padding: 7px 20px;
+        font-size: 30px;
     }
     .banner-caption h1 {
-        padding: 4px 0;
-        font-size: 20px;
+        padding: 5px 0;
+        font-size: 33px;
     }
 }
