@@ -72,7 +72,7 @@
     }
 }
 
-@media (max-width: 576px) {
+@media (min-width: 360px) and (max-width: 576px) {
     .banner {
         padding: 120px 0;
     }
